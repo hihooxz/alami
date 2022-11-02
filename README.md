@@ -2,6 +2,11 @@
 Implemeting located by css selector,
 Implicity Wait and linkText
 
+1. You need install chrome driver first
+2. and then add your path on System.setProperty("webdriver.chrome.driver", "/Users/rikykhoerul/Desktop/chromedriver");
+3. change your path 
+4. run the project
+
 Here's the result
 
 
